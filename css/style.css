@@ -474,9 +474,6 @@ color: white;
     }
 }
 
-
-
-
 body.dark {
     /*background: #292C35;*/
     width: 100%;
@@ -486,7 +483,6 @@ body.dark {
     /*background-repeat: no-repeat;*/
     background-size: 100% 100%;
 }
-
 .bg-checkbox
 {
     display: flex;
@@ -499,8 +495,6 @@ body.dark {
     top: -45%;
     right: 4%;
 }
-
-
 .checkbox {
     opacity: 0;
     position: absolute;

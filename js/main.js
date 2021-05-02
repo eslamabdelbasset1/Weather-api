@@ -25,6 +25,7 @@ function displayAnother(a) {
 search("cairo");
 
 
+
 // Themes
 chk.addEventListener('change', () => {
     document.body.classList.toggle('dark');
